@@ -16,13 +16,14 @@ I also have a keen interest in exploring Machine Learning and leveraging it to s
 I’m open to collaborating on Open Source projects, particularly in:
 	•	PHP
 	•	Laravel
-    •	Springboot
-    •	Java
+    	•	Springboot
+    	•	Java
+     	•	Vue JS
 	•	Backend and API Development
 
 📫 Get in Touch
 Feel free to reach out to me through:
-	•	Email: muhammadirfan5891@gmail.com
+	•	Email: muhammadirfan58912@gmail.com
 	•	LinkedIn: https://www.linkedin.com/in/muhammad-irfan-1997-se
 
 🚀 Let’s create amazing software together!
